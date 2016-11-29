@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WWW/cgi-bin/advcgi.py=utf8
+encoding//WWW/cgi-bin/friendsA.py=utf8
+encoding//WWW/cgi-bin/friendsC.py=utf8
+encoding//WWW/cgihttpd.py=utf-8
+encoding//WWW/myhttpd.py=utf-8
+encoding//WWW/test/friendsB.py=utf8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
